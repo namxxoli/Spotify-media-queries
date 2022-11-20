@@ -1,0 +1,102 @@
+@media screen {min-width: 375px;
+    
+    .intro {
+        width: 100%;
+        background: linear-gradient(to bottom, #4e8f2d, #000000 )
+    }
+    body {
+        color: white;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: medium;
+    }
+    h1 {
+        color: rgb(144, 219, 32);
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-size: 4.5rem;
+    }
+    h3{
+        font-size: medium;
+        color: #afe0a0;
+    }
+    ol {
+        list-style: circle;
+    }
+    figure1 {
+      width: 20%;
+     text-align: center;
+      font-style: italic;
+      font-size: smaller;
+      text-indent: 0;
+      border: thin silver solid;
+      margin: 0.5em;
+      padding: 0.5em;
+    }
+    figure2 {
+        width: 20%;
+       text-align: center;
+        font-style: italic;
+        font-size: smaller;
+        text-indent: 0;
+        border: thin silver solid;
+        margin: 0.5em;
+        padding: 0.5em;
+      }
+    div1 {
+        display: flex;
+        justify-content: center;
+    }
+    div2 {
+        display: flex;
+        justify-content: center;
+    }
+}
+
+.intro {
+    width: 100%;
+    background: linear-gradient(to bottom, #4e8f2d, #000000 )
+}
+body {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+}
+h1 {
+    color: rgb(144, 219, 32);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 4.5rem;
+}
+h3{
+    font-size: medium;
+    color: #afe0a0;
+}
+ol {
+    list-style: circle;
+}
+figure1 {
+  width: 20%;
+ text-align: center;
+  font-style: italic;
+  font-size: smaller;
+  text-indent: 0;
+  border: thin silver solid;
+  margin: 0.5em;
+  padding: 0.5em;
+}
+figure2 {
+    width: 20%;
+   text-align: center;
+    font-style: italic;
+    font-size: smaller;
+    text-indent: 0;
+    border: thin silver solid;
+    margin: 0.5em;
+    padding: 0.5em;
+  }
+div1 {
+    display: flex;
+    justify-content: center;
+}
+div2 {
+    display: flex;
+    justify-content: center;
+}
